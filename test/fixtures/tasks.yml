@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticket_id: 
+  description: MyText
+  resolution: MyText
+  priority: 1
+  duration: 9.99
+  status: 1
+  user_id: 
+
+two:
+  ticket_id: 
+  description: MyText
+  resolution: MyText
+  priority: 1
+  duration: 9.99
+  status: 1
+  user_id: 
